@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/lxx929/wy/issues"
   },
-  "homepage": "https://github.com/lxx929/wy#readme"
+  "homepage": "https://github.com/lxx929/wy#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp-babel": "^7.0.0"
+  }
 }

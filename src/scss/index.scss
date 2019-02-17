@@ -10,4 +10,25 @@ body,
 .wrapper {
     @include box_flex;
     @include direction(column);
+    background: #F7F6F5;
+    >img {
+        width: 100%;
+        display: block;
+    }
+    .log {
+        ul {
+            li {
+                button {}
+                a {}
+            }
+        }
+    }
+    .kind {
+        ul {
+            li {
+                img {}
+                span {}
+            }
+        }
+    }
 }
